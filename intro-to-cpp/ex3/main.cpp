@@ -1,4 +1,5 @@
 #include <fstream>
+#include "test.cpp" // For testing.
 #include <iostream>
 #include <string>
 #include <vector>
@@ -47,8 +48,6 @@ void PrintBoard(const vector<vector<int>> board)
         cout << "\n";
     }
 }
-
-#include "test.cpp" // For testing.
 
 int main()
 {
