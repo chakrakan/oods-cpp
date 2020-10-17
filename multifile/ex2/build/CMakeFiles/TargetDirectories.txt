@@ -1,0 +1,3 @@
+/Users/kanisk/Development/oods-cpp/multifile/ex2/build/CMakeFiles/rebuild_cache.dir
+/Users/kanisk/Development/oods-cpp/multifile/ex2/build/CMakeFiles/edit_cache.dir
+/Users/kanisk/Development/oods-cpp/multifile/ex2/build/CMakeFiles/sample.dir

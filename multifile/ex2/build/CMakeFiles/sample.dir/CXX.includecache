@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kanisk/Development/oods-cpp/multifile/ex2/src/increment_and_sum.h
+vector
+-
+
+/Users/kanisk/Development/oods-cpp/multifile/ex2/src/main.cpp
+iostream
+-
+vector
+-
+increment_and_sum.h
+/Users/kanisk/Development/oods-cpp/multifile/ex2/src/increment_and_sum.h
+
